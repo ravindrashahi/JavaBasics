@@ -7,7 +7,7 @@ public class InsertionSort
       int[] a= {5,2,6,1,7};
       
       int temp,j;
-      for (int i=0; i<a.length; i++)
+      for (int i=1; i<a.length; i++)
       {
     	  temp=a[i];
     	  j=i;
