@@ -10,7 +10,7 @@ public class ArrayListConcept {
       //it is dynamic in nature---no fixed size
 	  //can contain duplicate values/elements
       //maintains insertion order
-	  //synchronized
+	  // non synchronized
 	  //allows random access to fetch the element because it stores the values on the basis of indexes
 		
 		ArrayList ar= new ArrayList();   //non-generic
